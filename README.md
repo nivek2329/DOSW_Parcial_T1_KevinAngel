@@ -85,3 +85,7 @@ Como adoptante, quiero explorar el catálogo por niveles jerárquicos, para cono
 
 
 ### Figma: https://www.figma.com/make/8uAxc05cdiWetscXBRrscl/Plataforma-de-adopci%C3%B3n-de-mascotas?fullscreen=1&t=a0iBLxsgc31lMJbc-1&code-node-id=0-6
+
+### epica y features:
+![Epica](docs/images/epica.png)
+![Feature](docs/images/features.png)
