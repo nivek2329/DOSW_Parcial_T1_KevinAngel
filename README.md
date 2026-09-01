@@ -47,3 +47,10 @@ Acceso activo a cuenta de Figma, con archivos recientes visibles.
 Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` finalizando en `BUILD SUCCESS`.
 
 ![Evidencia Maven Build Success](docs/images/evidencia-maven-build-success.png)
+
+
+
+### Punto 1(diagrama de contexto ):
+![Diagram contexto](docs/imagenes/Diagram.drawio.png)
+
+
