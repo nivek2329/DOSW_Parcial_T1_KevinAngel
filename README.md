@@ -55,5 +55,21 @@ https://www.figma.com/make/8uAxc05cdiWetscXBRrscl/Plataforma-de-adopci%C3%B3n-de
 
 
 
+### Parte 3: (diagrama de uso)
+
+![Diagrama contexto](docs/images/Diagrama_caso_Iterator.png)
+
+![Diagrama contexto](docs/images/Diagrama_caso_composite.png)
+
+### historia de usuario 1
+Como adoptante, quiero filtrar el catálogo de mascotas por especie, rango de edad o compatibilidad, para encontrar una mascota que se ajuste a mi estilo de vida y hogar.
+
+### historia de usuario 2
+Como adoptante, quiero explorar el catálogo por niveles jerárquicos, para conocer la disponibilidad de mascotas en la zona que me interesa.
 
 
+### Figma: https://www.figma.com/make/8uAxc05cdiWetscXBRrscl/Plataforma-de-adopci%C3%B3n-de-mascotas?fullscreen=1&t=a0iBLxsgc31lMJbc-1&code-node-id=0-6
+
+### epica y features:
+![Epica](docs/images/epica.png)
+![Feature](docs/images/features.png)
