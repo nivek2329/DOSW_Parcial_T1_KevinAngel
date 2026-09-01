@@ -48,27 +48,8 @@ Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` fi
 
 ![Evidencia Maven Build Success](docs/images/evidencia-maven-build-success.png)
 
-### Parte 1: (diagrama de contexto)
 
-![Diagrama contexto](docs/images/Diagram.drawio.png)
 
-### Parte 2: (Requerimientos)
-
-### Requerimientos funcionales:
-
--Paw connect debe permitir filtrar y buscar las mascotas segun los criterios definidos por el usuario
-
--paw connect debe permitir registrar y logear a los usuarios
-
--paw connect debe tener la capacidad de permitir recorrer la jerarquia del sistema de multiples formas
-
--paw connect debe tener la capacidad de permitir consultar al usuario el estado de adopcion de su mascota
-
-### Requerimientos no funcionales:
-
--El sistema debe tener colores institucionales ,color verve (#276749)
-
--El sistema debe procesar y responder cualquier solicitud de consulta o navegacion en un intervalo <= 1 para el 90% de consultas
 
 
 
