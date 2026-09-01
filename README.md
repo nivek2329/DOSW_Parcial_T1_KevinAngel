@@ -6,7 +6,7 @@
 
 **Bitacora:** https://github.com/nivek2329/Bitacora-dosw.git 
 
-**Enunciado asignado:**
+**Enunciado asignado:** 1 (PAW CONNECT)
 
 ## Estructura del proyecto
 
