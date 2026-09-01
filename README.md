@@ -83,3 +83,5 @@ Como adoptante, quiero filtrar el catálogo de mascotas por especie, rango de ed
 ### historia de usuario 2
 Como adoptante, quiero explorar el catálogo por niveles jerárquicos, para conocer la disponibilidad de mascotas en la zona que me interesa.
 
+
+### Figma: https://www.figma.com/make/8uAxc05cdiWetscXBRrscl/Plataforma-de-adopci%C3%B3n-de-mascotas?fullscreen=1&t=a0iBLxsgc31lMJbc-1&code-node-id=0-6
