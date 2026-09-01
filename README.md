@@ -71,5 +71,7 @@ Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` fi
 -El sistema debe procesar y responder cualquier solicitud de consulta o navegacion en un intervalo <= 1 para el 90% de consultas
 
 
+### Parte 3: (diagrama de uso)
 
+![Diagrama contexto](docs/images/casos_uso.drawio.png)
 
