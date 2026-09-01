@@ -48,7 +48,8 @@ Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` fi
 
 ![Evidencia Maven Build Success](docs/images/evidencia-maven-build-success.png)
 
-
+### Punto 1(diagrama de contexto ):
+![Diagram contexto](docs/images/Diagram.drawio.png)
 
 
 
