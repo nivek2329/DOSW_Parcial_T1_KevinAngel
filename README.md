@@ -73,5 +73,7 @@ Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` fi
 
 ### Parte 3: (diagrama de uso)
 
-![Diagrama contexto](docs/images/casos_uso.drawio.png)
+![Diagrama contexto](docs/images/Diagrama_caso_Iterator.png)
+
+![Diagrama contexto](docs/images/Diagrama_caso_composite.png)
 
