@@ -4,7 +4,7 @@
 
 **Grupo DOSW:** 1
 
-**Enunciado asignado:** _(completar en la Parte 3)_
+**Enunciado asignado:**
 
 ## Estructura del proyecto
 
