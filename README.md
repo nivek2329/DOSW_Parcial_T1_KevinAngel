@@ -48,6 +48,9 @@ Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` fi
 
 ![Evidencia Maven Build Success](docs/images/evidencia-maven-build-success.png)
 
+### Figma :
+https://www.figma.com/make/8uAxc05cdiWetscXBRrscl/Plataforma-de-adopci%C3%B3n-de-mascotas?fullscreen=1&t=a0iBLxsgc31lMJbc-1&code-node-id=0-6 
+
 
 
 
