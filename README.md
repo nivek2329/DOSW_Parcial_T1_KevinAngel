@@ -71,5 +71,15 @@ Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` fi
 -El sistema debe procesar y responder cualquier solicitud de consulta o navegacion en un intervalo <= 1 para el 90% de consultas
 
 
+### Parte 3: (diagrama de uso)
 
+![Diagrama contexto](docs/images/Diagrama_caso_Iterator.png)
+
+![Diagrama contexto](docs/images/Diagrama_caso_composite.png)
+
+### historia de usuario 1
+Como adoptante, quiero filtrar el catálogo de mascotas por especie, rango de edad o compatibilidad, para encontrar una mascota que se ajuste a mi estilo de vida y hogar.
+
+### historia de usuario 2
+Como adoptante, quiero explorar el catálogo por niveles jerárquicos, para conocer la disponibilidad de mascotas en la zona que me interesa.
 
