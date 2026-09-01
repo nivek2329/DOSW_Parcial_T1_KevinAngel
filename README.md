@@ -50,7 +50,7 @@ Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` fi
 
 ### Parte 1: (diagrama de contexto)
 
-![Diagrama contexto](docs/images/Diagrama.drawio.png)
+![Diagrama contexto](docs/images/Diagram.drawio.png)
 
 
 
