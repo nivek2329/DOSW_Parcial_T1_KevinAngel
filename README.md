@@ -4,6 +4,8 @@
 
 **Grupo DOSW:** 1
 
+**Bitacora:** https://github.com/nivek2329/Bitacora-dosw.git 
+
 **Enunciado asignado:**
 
 ## Estructura del proyecto
