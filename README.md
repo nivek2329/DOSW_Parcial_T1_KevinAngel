@@ -48,11 +48,27 @@ Ejecución de `mvn compile exec:java -Dexec.mainClass="edu.dosw.parcial.App"` fi
 
 ![Evidencia Maven Build Success](docs/images/evidencia-maven-build-success.png)
 
-### Figma :
-https://www.figma.com/make/8uAxc05cdiWetscXBRrscl/Plataforma-de-adopci%C3%B3n-de-mascotas?fullscreen=1&t=a0iBLxsgc31lMJbc-1&code-node-id=0-6 
+### Parte 1: (diagrama de contexto)
 
+![Diagrama contexto](docs/images/Diagram.drawio.png)
 
+### Parte 2: (Requerimientos)
 
+### Requerimientos funcionales:
+
+-Paw connect debe permitir filtrar y buscar las mascotas segun los criterios definidos por el usuario
+
+-paw connect debe permitir registrar y logear a los usuarios
+
+-paw connect debe tener la capacidad de permitir recorrer la jerarquia del sistema de multiples formas
+
+-paw connect debe tener la capacidad de permitir consultar al usuario el estado de adopcion de su mascota
+
+### Requerimientos no funcionales:
+
+-El sistema debe tener colores institucionales ,color verve (#276749)
+
+-El sistema debe procesar y responder cualquier solicitud de consulta o navegacion en un intervalo <= 1 para el 90% de consultas
 
 
 ### Parte 3: (diagrama de uso)
@@ -66,10 +82,3 @@ Como adoptante, quiero filtrar el catálogo de mascotas por especie, rango de ed
 
 ### historia de usuario 2
 Como adoptante, quiero explorar el catálogo por niveles jerárquicos, para conocer la disponibilidad de mascotas en la zona que me interesa.
-
-
-### Figma: https://www.figma.com/make/8uAxc05cdiWetscXBRrscl/Plataforma-de-adopci%C3%B3n-de-mascotas?fullscreen=1&t=a0iBLxsgc31lMJbc-1&code-node-id=0-6
-
-### epica y features:
-![Epica](docs/images/epica.png)
-![Feature](docs/images/features.png)
